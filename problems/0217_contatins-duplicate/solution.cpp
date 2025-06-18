@@ -27,7 +27,7 @@ struct TreeNode {
 class Solution {
 public:
     vector<vector<int>> levelOrder(TreeNode* root) {
-         vector<vector<int>> result;
+        vector<vector<int>> result;
         if (root == nullptr) return result;
 
         queue<TreeNode*> curQ;
