@@ -1,5 +1,5 @@
 // 0200_number-of-islands / solution.cpp
-// Time: O()  |  Space: O()
+// Time: O(M * N)  |  Space: O(M * N)
 #include <bits/stdc++.h>
 using namespace std;
 
