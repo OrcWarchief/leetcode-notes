@@ -1,5 +1,5 @@
 // 787. Cheapest Flights Within K Stops / solution.cpp
-// Time: O(K * M)  |  Space: O(N)
+// Time: O(K * E)  |  Space: O(N)
 #include <bits/stdc++.h>
 using namespace std;
 
