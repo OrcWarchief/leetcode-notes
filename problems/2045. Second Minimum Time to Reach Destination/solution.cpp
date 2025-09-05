@@ -1,5 +1,5 @@
 // 2045. Second Minimum Time to Reach Destination / solution.cpp
-// Time: O(N + M)  |  Space: O(N)
+// Time: O(ElogE)  |  Space: O(E)
 #include <bits/stdc++.h>
 using namespace std;
 
