@@ -29,7 +29,6 @@ public:
         {
             dsu.unite(p[0], p[1]);
         }
-        unordered_set<int> visit;
         unordered_map<int, vector<int>> idxOfRoot;
         for (int i = 0; i < (int)s.size(); ++i) 
         {
